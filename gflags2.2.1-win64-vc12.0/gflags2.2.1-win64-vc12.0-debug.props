@@ -3,8 +3,8 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>D:\3rdPartyLib\gflags2.2.1-win64-vc12.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\3rdPartyLib\gflags2.2.1-win64-vc12.0\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\package\gflags2.2.1-win64-vc12.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\package\gflags2.2.1-win64-vc12.0\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <Link>
