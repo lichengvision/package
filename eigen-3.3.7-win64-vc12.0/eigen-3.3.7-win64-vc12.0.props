@@ -3,11 +3,11 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>D:\3rdPartyLib\eigen-3.3.7-win64-vc12.0;$(IncludePath)</IncludePath>
+    <IncludePath>D:\package\eigen-3.3.7-win64-vc12.0;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>
-      <AdditionalIncludeDirectories>D:\3rdPartyLib\eigen-3.3.7-win64-vc12.0;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\package\eigen-3.3.7-win64-vc12.0;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup />
