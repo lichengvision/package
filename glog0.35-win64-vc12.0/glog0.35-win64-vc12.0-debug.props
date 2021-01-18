@@ -3,8 +3,9 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>D:\3rdPartyLib\glog0.35-win64-vc12.0\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\3rdPartyLib\glog0.35-win64-vc12.0\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\package\glog0.35-win64-vc12.0\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\package\glog0.35-win64-vc12.0\lib;$(LibraryPath)</LibraryPath>
+    <ExecutablePath>D:\package\glog0.35-win64-vc12.0\bin;$(ExecutablePath)</ExecutablePath>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <Link>
